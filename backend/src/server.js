@@ -18,8 +18,8 @@ const __dirname = path.resolve();
 app.use(
   cors({
     origin: [
-      "https://convo-amber.vercel.app/",
-      "http://localhost:5173/"
+      "https://convo-amber.vercel.app",
+      "http://localhost:5173"
     ],
     credentials: true, // allow frontend to send cookies
   })
