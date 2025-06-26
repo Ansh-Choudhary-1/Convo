@@ -46,14 +46,10 @@
 - React.js + TailwindCSS
 - React Router
 - Axios / Fetch
-- WebRTC (for video calls)
-- Appwrite (Auth & Storage)
 
 **Backend:**
 - Node.js + Express.js
 - MongoDB + Mongoose
-- Socket.IO (for chat)
-- Appwrite (Optional: for real-time & storage)
 
 **DevOps / Hosting:**
 - Vercel (Frontend)
