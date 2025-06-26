@@ -2,7 +2,6 @@
 
 **Convo** is a modern social platform designed to connect people across the globe who want to learn new languages through real conversations. Users sign up by selecting the language(s) they speak and the one(s) they want to learn. The app then recommends potential partners, allowing users to **chat, video call, send images**, and build authentic language-learning friendships.
 
-![Convo Preview](./preview.png) <!-- Optional: Add a screenshot -->
 
 ---
 
