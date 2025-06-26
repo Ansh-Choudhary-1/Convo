@@ -1,7 +1,7 @@
 import { axiosInstance } from "./axios";
 import { useNavigate } from "react-router";
 
-const navigate = useNavigate();
+
 export const signup = async (signupData) => {
   const response = await axiosInstance.post("/auth/signup", signupData);
   return response.data;
@@ -13,7 +13,6 @@ export const login = async (loginData) => {
 };
 export const logout = async () => {
   const response = await axiosInstance.post("/auth/logout");
-  navigate('/login');
   return response.data;
 };
 
